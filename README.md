@@ -1,9 +1,8 @@
 <img src="https://user-images.githubusercontent.com/104649407/166611005-d20d2d55-f2e0-42be-bb43-5553884838af.png" width="200" height="150" align="left">
-
-
-
-
 # Criando um Banco Digital com Java e Orientação a Objetos
+
+
+
 
 Desafio: Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário:
 “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).”
